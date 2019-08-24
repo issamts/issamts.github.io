@@ -1,2 +1,2 @@
-# issamts.github.io
+# issamts.github.com
 my blog
